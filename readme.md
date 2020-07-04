@@ -1,6 +1,12 @@
 Machine Learning is hot, becuase it if useful.
 AI is the furture and ML knowledge is a must.
 
+file
+
+
+
+
+
 How to Learn?
 
 The Feyman Technique:
