@@ -31,9 +31,9 @@ X is the matrix of [ X1
 So, y = theta_1*X_1  + theta_2*X_2  +theta_3*X_3  ... theta_n* X_n
 can be rewritten as y= theta.T * X          
 
-<h5>*Hepothesis or H(x) = theta.T*X where theta is the array of theta_1 to theta_n *  </h5>>             
+<h5>*Hepothesis or H(x) = theta.T*X where theta is the array of theta_1 to theta_n *  </h5>            
 
-<h3>Cost Function<h3/>  
+<h3>Cost Function</h3>  
 Cost function, AKA "loss function","Squared error function" or "Mean squared error", is used to calculate the difference between the result
 obtained from our Hepothesis function and the real data(training set). 
 we will use J to represent the result from cost function.
