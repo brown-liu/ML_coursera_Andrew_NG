@@ -1,4 +1,4 @@
-Machine Learning is hot, becuase it if useful.
+Machine Learning is hot, becuase it is so useful.
 AI is the furture and ML knowledge is a must.
 
 file
